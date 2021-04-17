@@ -3,6 +3,8 @@
 # pip3 install selenium
 # pip3 install webdriver-manager
 
+# to run this script, type: chmod +x ./py-selenium.py && ./py-selenium.py
+
 
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
